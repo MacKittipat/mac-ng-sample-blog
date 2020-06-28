@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mac-blog-web"
+    }
+  },
+  "defaultProject": "mac-blog-web",
+  "cli": {
+    "analytics": false
+  }
 }
